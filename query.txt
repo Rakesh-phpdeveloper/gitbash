@@ -1,0 +1,28 @@
+Sublime Text Line and Indentation Tools (Tutorial #2 ...
+
+# display the multi dimensional array in php using foreach
+# display nested array in php using foreach
+# display the error meassage when database connection failes
+# in_array in_array()
+# how ot use the font awesome icon in sublime text
+http://tutsnare.com/custom-form-validation-in-codeigniter/
+
+	http://tutsnare.com/custom-form-validation-in-codeigniter/
+
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); 
+async: false,
+
+usefull links
+http://www.codexworld.com/codeigniter/
+
+https://codeforgeek.com/2016/03/google-recaptcha-node-js-tutorial/
+http://www.jqueryrain.com/demo/jquery-autocomplete/
+http://www.jqueryscript.net/tags.php?/Autocomplete/
+How I Manage My Tasks With Sublime Text 2 - YouTube
+
+http://betheme.info/comohos-multipurpose-responsive-premium-opencart-2-2-theme-with-28-unique-designs/
+http://bigtheme.net/wordpress/themeforest/345-enfold
+https://www.digitalocean.com/community/tutorials/how-to-use-the-gitlab-user-interface-to-manage-projects
+
+http://bigtheme.net/
